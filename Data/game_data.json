@@ -1,0 +1,12 @@
+{
+    "members": {
+        "memberid": {
+            "tag": "membertag1",
+            "is_prisoner": true,
+            "experience": 70,
+            "level": 7,
+            "gold": 25,
+            "lockpicks": 6
+        }
+    }
+}
