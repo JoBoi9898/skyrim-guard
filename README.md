@@ -1,6 +1,6 @@
 # Skyrim Guard
 
-This is a Discord integration game based on the behaviour of the city guards in The Elder Scrolls V: Skyrim.
+This is a Discord integration game based on the behavior of the city guards in The Elder Scrolls V: Skyrim.
 
 __WARNING__ : This project was made for self-educational purposes. Furthurmore, this bot application was made for my own personal discord server. However, I provide extensive installation instructions if you do want to use it in your own server.
 
