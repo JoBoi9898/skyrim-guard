@@ -33,4 +33,4 @@ If the player is out of lockpicks to get out of jail, he will not be able to pic
 As the player gains experience, he will gain levels. A higher level player has less chances of getting caught by the guard.
 ## License
 
-This software is licensed under the  [MIT Liscence](https://discord.js.org/#/).
+This software is licensed under the  [MIT Liscence](https://github.com/JoBoi9898/skyrim-guard/blob/main/LICENSE).
