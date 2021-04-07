@@ -16,11 +16,10 @@ __WARNING__ : This project was made for self-educational purposes. Furthermore, 
 3. You will need to create a Discord application by accessing the Discord developer portal. The application needs to have administration privileges in order to remove or add roles to the players in your Discord server.
 4. You will need to create your own .env file at the root of the directory with the corresponding bot token.
 5. You will need to add the bot to your server.
-6. You will need to add a prisoner role and a jail channel to your server. Copy the ids into the setup.json file located in the root directory.
-7. Select a bot channel in your discord server and copy its id in the same setup.json file.
+6. You will need to add a prisoner role and a jail channel to your server.
+7. Fill the setup.json file with the correct [ids](https://github.com/5andr0/PogoLocationFeeder/issues/64).
 
 For an enhanced experience, it is recommended to restrict players with the prisoner role from sending messages in text channels other than the jail channel.
-
 
 To launch the application, you will need to move to the Bot directory and launch client.js.
 
