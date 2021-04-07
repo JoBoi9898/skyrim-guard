@@ -1,12 +1,12 @@
 {
-    "server": "758811714908454932",
+    "server": "",
     "prefix": ".",
-    "botChannel": "758811714908454935",
-    "jailChannel": "775415062877438022",
+    "botChannel": "",
+    "jailChannel": "",
     "GMS": [
-        "277466485520203778"
+        ""
     ],
     "roles": {
-        "prisoner": "775538159747858472"
+        "prisoner": ""
     }
 }
